@@ -1,4 +1,4 @@
-package ru.mail.besfian.samples;
+package tests.samples;
 
 import io.appium.java_client.MobileBy;
 import io.appium.java_client.android.AndroidDriver;
